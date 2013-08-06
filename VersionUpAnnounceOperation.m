@@ -1,6 +1,5 @@
 //
 //  VersionUpAnnounceOperation.m
-//  TLines
 //
 //  Created by Ryu Iwasaki on 2013/08/03.
 //  Copyright (c) 2013年 Ryu Iwasaki. All rights reserved.
@@ -14,7 +13,6 @@ NSString *VersionKey = @"VersionKey";
 }
 
 - (void)announce{
-    DEBUG_LOG(@"announce");
     [[[NSOperationQueue alloc]init]addOperation:self];
 }
 
