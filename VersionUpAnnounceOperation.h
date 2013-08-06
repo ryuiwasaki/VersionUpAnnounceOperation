@@ -1,6 +1,5 @@
 //
 //  VersionUpAnnounceOperation.h
-//  TLines
 //
 //  Created by Ryu Iwasaki on 2013/08/03.
 //  Copyright (c) 2013年 Ryu Iwasaki. All rights reserved.
